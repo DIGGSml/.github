@@ -1,12 +1,12 @@
-## Hi there 👋
+# Welcome to the Github site for the DIGGS Project
 
-<!--
+DIGGS is a Special Project of the American Society of Civil Engineers Geo-Institute. You can obtain more information [here.](https://diggsml.org)
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+The DIGGS project involves development of a GML (XML-based) geospatial standard schema for the transfer of geotechnical and geoenvironmental data within an organization or between multiple organizations.  DIGGS can work with existing software, hardware, databases and data storage facilities to easily transfer and share your data. 
+
+![alt text](https://www.geoinstitute.org/sites/default/files/inline-images/DIGGS%20use%20case.png "DIGGSml Use Case Diagram")
+
+Once implemented by your organization, the DIGGS data transfer standard will help meet your needs for information and data asset management.  It is anticipated that DIGGS will save state and federal agencies, and other public and private organizations millions of dollars.  Savings will be realized through a combination of avoided drilling and laboratory testing costs, and efficiencies afforded by the availability of geotechnical data for multiple projects in a standard format. 
+
 -->
