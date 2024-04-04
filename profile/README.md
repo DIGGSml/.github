@@ -2,6 +2,14 @@
 
 DIGGS is a Special Project of the American Society of Civil Engineers Geo-Institute. You can obtain more information [here.](https://diggsml.org)
 
+Some repoaitories are configured for Github Pages and serve as resouces. They can also be accesed via their diggsml.org URL's:
+
+https://diggsml.org/docs - Schema documentation and other resources
+
+http://diggsml.org/def - Codelist, Property, and CRS dictionaries
+
+Http://diggsml.org/schemas - Direct access to schema files
+
 
 The DIGGS project involves development of a GML (XML-based) geospatial standard schema for the transfer of geotechnical and geoenvironmental data within an organization or between multiple organizations.  DIGGS can work with existing software, hardware, databases and data storage facilities to easily transfer and share your data. 
 
