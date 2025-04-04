@@ -1,5 +1,6 @@
 # Welcome to the Github site for the DIGGS Project
-# *** START HERE *** [DIGGS information Portal](https://github.com/DIGGSml/doc/wiki)
+
+## *** START HERE *** [Documentation and Resource Portal](https://github.com/DIGGSml/doc/wiki)
 
 ## Schema Files
 - ### Latest development version (beta) &nbsp;&nbsp;[Repository](https://github.com/DIGGSml/schema-dev) | [Directory](https://diggsml.org/schema-dev)
@@ -14,4 +15,6 @@ The DIGGS project consists of a GML/XML-based standard schema for the transfer o
 
 ![alt text](https://www.geoinstitute.org/sites/default/files/inline-images/DIGGS%20use%20case.png "DIGGSml Use Case Diagram")
 *DIGGS is a Special Project of the American Society of Civil Engineers Geo-Institute. ([Project home page](https://diggsml.org))*
+
+
 
