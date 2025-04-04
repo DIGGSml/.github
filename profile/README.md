@@ -1,5 +1,5 @@
 # Welcome to the Github site for the DIGGS Project
-# *** START HERE *** [Documentation and Resource Portal](https://github.com/DIGGSml/doc/wiki)
+# *** START HERE *** [DIGGS information Portal](https://github.com/DIGGSml/doc/wiki)
 
 ## Schema Files
 - ### Latest development version (beta) &nbsp;&nbsp;[Repository](https://github.com/DIGGSml/schema-dev) | [Directory](https://diggsml.org/schema-dev)
