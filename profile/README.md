@@ -4,7 +4,7 @@
 
 ## Schema Files
 - ### Latest development version (beta) &nbsp;&nbsp;[Repository](https://github.com/DIGGSml/schema-dev) | [Directory](https://diggsml.org/schema-dev)
-- ### Latest Release (v. 2.6)) &nbsp;&nbsp;[Repository](https://github.com/DIGGSml/schemas/2.6) | [Directory](https://diggsml.org/schemas/2.6)
+- ### Latest Release (v. 2.6) &nbsp;&nbsp;[Repository](https://github.com/DIGGSml/schemas/2.6) | [Directory](https://diggsml.org/schemas/2.6)
 - ### All Releases &nbsp; &nbsp;[Repository](https://github.com/DIGGSml/schemas) 
 
 ## DIGGS Dictionary Files &nbsp;&nbsp;[Repository](https://github.com/DIGGSml/def) | [Directory](https://diggsml.org/def)
