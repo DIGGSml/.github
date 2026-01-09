@@ -1,10 +1,10 @@
 # Welcome to the Github site for the DIGGS Project
 
-## *** DIGGS Version 3 is here!! ***
+## *** DIGGS Version 3 is released!! ***
 ## *** START HERE *** [DIGGS Information Portal](https://github.com/DIGGSml/doc/wiki)
 
 ## Schema Files
-- ### Latest Release (v. 3.0.0): &nbsp;&nbsp;[Repository](https://github.com/DIGGSml/schemas/tree/main/3.0.0) | [Directory](https://diggsml.org/schemas/3.0.0) | [Release Package](https://github.com/DIGGSml/schema-dev/releases/tag/3.0.0)
+- ### Latest Release (v. 3.0.0): &nbsp;&nbsp;[Repository](https://github.com/DIGGSml/schemas/tree/main/3.0.0) | [Directory](https://diggsml.org/schemas/3.0.0) | [Release Package](https://github.com/DIGGSml/schema-dev/releases/tag/3.0.0) | Full [Schema Documentation](https://diggsml.org/docs/3.0.0)
 - ### Latest development version (beta): &nbsp;&nbsp;[Repository](https://github.com/DIGGSml/schema-dev) | [Directory](https://diggsml.org/schema-dev)
 - ### All Releases: &nbsp; &nbsp;[Repository](https://github.com/DIGGSml/schemas) 
 
