@@ -1,7 +1,7 @@
 # Welcome to the Github site for the DIGGS Project
 
 ## *** DIGGS Version 3 is released!! ***
-## *** START HERE *** [DIGGS Information Portal](https://github.com/DIGGSml/doc/wiki)
+## *** START HERE ---> [DIGGS Information Portal](https://github.com/DIGGSml/doc/wiki)
 
 ## Schema Files
 - ### Latest Release (v. 3.0.0):
